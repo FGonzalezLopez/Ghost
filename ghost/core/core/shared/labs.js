@@ -45,7 +45,8 @@ const ALPHA_FEATURES = [
     'collectionsCard',
     'lexicalIndicators',
     'adminXDemo',
-    'commentImprovements'
+    'commentImprovements',
+    'postsX'
 ];
 
 module.exports.GA_KEYS = [...GA_FEATURES];
